@@ -1,0 +1,7 @@
+<RafL=Launch[ExecuteAs=Exe][@Title=Hello, World]>
+
+
+Consolelaunch
+{
+  print["Hello, World"]
+}
