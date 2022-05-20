@@ -7,7 +7,9 @@ If You Want To Help Me Make This Please Tell Me in Pull requests
 
 In Develop, May Crash Or Randomly Close
 
+Also You NEED linux To Compile With RafL
 
+If You Want To Install It On Windows You Need Cgywin
 
 
 
