@@ -12,6 +12,9 @@ Also You NEED linux To Compile With RafL
 If You Want To Install It On Windows You Need Cgywin
 
 
+Please Run Makefile to Run But Run It In CMD Prompt Of Linux
+
+
 
 
 RafL Is Now Moving To C, And h
